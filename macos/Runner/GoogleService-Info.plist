@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyABL672yiwMFPlIo-GjayfLDp22ABa4wEo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>578248543336</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>np.com.besocial.besocial.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>be-social01</string>
+	<key>STORAGE_BUCKET</key>
+	<string>be-social01.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:578248543336:ios:215c706930bc947eadffdd</string>
+</dict>
+</plist>
