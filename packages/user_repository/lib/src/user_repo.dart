@@ -5,7 +5,7 @@ import 'package:user_repository/user_repository.dart';
 abstract class UserRepo{
 
 
-  Future<void> signIn(String email, String password);
+  Future<void> signIn(String youremail, String password);
 
   Future<void> signOut();
 
